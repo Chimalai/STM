@@ -54,7 +54,7 @@ This is a Python script designed to automate token swaps on the Citrea testnet. 
 To start the program, run the following command in your terminal:
 
 ```bash
-python satsuma.py
+python main.py
 ```
 
 The program will display an interactive menu, allowing you to choose one of the following options:
