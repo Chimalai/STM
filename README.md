@@ -17,7 +17,7 @@ This is a Python script designed to automate token swaps on the Citrea testnet. 
     First, clone the project from GitHub and navigate into the directory.
 
     ```bash
-    git clone [https://github.com/Chimalai/STM.git](https://github.com/Chimalai/STM.git)
+    git clone https://github.com/Chimalai/STM.git
     cd STM
     ```
 
